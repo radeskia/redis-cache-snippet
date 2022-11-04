@@ -1,0 +1,19 @@
+{
+    "name": "node-redis",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "redis": "^4.4.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
